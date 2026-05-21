@@ -1,2 +1,2 @@
-# o3p-telegram-bot
+# o3p-bot-telegram
 Odoo third party telegram bot
