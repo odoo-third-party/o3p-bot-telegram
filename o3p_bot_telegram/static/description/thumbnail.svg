@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+  <rect width="600" height="360" rx="28" fill="#f8fafc"/>
+  <rect x="40" y="44" width="520" height="272" rx="20" fill="#fff" stroke="#dbe3ea"/>
+  <circle cx="150" cy="180" r="64" fill="#229ED9"/>
+  <path fill="#fff" d="M194 135 176 225c-1 5-5 6-10 3l-30-22-15 14c-2 2-4 3-7 3l3-31 57-52c2-2 0-3-4-1l-70 44c-5 3-5 5-1 7l18 6 42-26c20-13 24-15 27-15 2 0 3 1 2 4Z"/>
+  <text x="250" y="157" fill="#111827" font-family="Arial, sans-serif" font-size="38" font-weight="800">O3P Bot Telegram</text>
+  <text x="250" y="204" fill="#475569" font-family="Arial, sans-serif" font-size="22">Settings and test console</text>
+</svg>

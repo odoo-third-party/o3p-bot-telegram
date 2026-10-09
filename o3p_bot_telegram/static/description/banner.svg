@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#f8fafc"/>
+  <rect x="72" y="62" width="1056" height="236" rx="24" fill="#fff" stroke="#dbe3ea"/>
+  <circle cx="198" cy="180" r="70" fill="#229ED9"/>
+  <path fill="#fff" d="M249 130 229 232c-2 6-6 8-12 4l-34-25-17 16c-2 2-4 4-8 4l3-35 65-59c3-2 0-4-4-2l-80 50c-5 4-6 6-1 8l21 7 48-30c22-15 27-18 30-18 3 0 4 2 3 5Z"/>
+  <text x="318" y="158" fill="#111827" font-family="Arial, sans-serif" font-size="48" font-weight="800">O3P Bot Telegram</text>
+  <text x="320" y="213" fill="#475569" font-family="Arial, sans-serif" font-size="26">Configure a Telegram bot token, inspect recent chats, and send test messages from Odoo.</text>
+</svg>

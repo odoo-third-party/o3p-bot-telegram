@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_o3p_bot_telegram_root"
+              name="Telegram Bot"
+              sequence="46"
+              groups="base.group_system"
+              web_icon="o3p_bot_telegram,static/description/icon.png"/>
+
+    <menuitem id="menu_o3p_bot_telegram_test"
+              name="Test Console"
+              parent="menu_o3p_bot_telegram_root"
+              action="action_o3p_bot_telegram_tester"
+              sequence="10"/>
+
+    <menuitem id="menu_o3p_bot_telegram_settings"
+              name="Settings"
+              parent="menu_o3p_bot_telegram_root"
+              action="action_o3p_bot_telegram_settings"
+              sequence="20"/>
+</odoo>
