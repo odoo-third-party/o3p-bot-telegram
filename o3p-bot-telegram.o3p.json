@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "name": "O3P Bot Telegram",
+  "name": "o3p-bot-telegram",
   "database": "",
   "odoo": {
     "selector": "auto",

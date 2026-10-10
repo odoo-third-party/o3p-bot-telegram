@@ -5,7 +5,7 @@
         "O3P Bot Telegram adds Telegram bot configuration and a transient test console "
         "for reading recent chats and sending test messages through the Telegram Bot API."
     ),
-    "version": "19.0.1.0.0",
+    "version": "20.0.1.0.0",
     "category": "Productivity/Discuss",
     "author": "O3P",
     "website": "https://github.com/odoo-third-party/o3p-bot-telegram",
