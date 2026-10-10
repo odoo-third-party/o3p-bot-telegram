@@ -14,7 +14,7 @@
     "depends": ["base_setup"],
     "external_dependencies": {"python": ["requests"]},
     "data": [
-        "security/ir.model.access.csv",
+        "security/ir.access.csv",
         "views/res_config_settings_views.xml",
         "views/telegram_tester_views.xml",
         "views/menu_views.xml",
