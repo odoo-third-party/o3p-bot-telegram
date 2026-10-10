@@ -221,4 +221,5 @@ __marimo__/
 upush.sh
 fulldeploy.sh
 restart_odoo19.sh
+restart_odoo20.sh
 restartodoo.sh

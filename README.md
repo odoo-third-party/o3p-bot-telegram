@@ -6,6 +6,7 @@ Odoo 19 addon for configuring a Telegram bot token and testing Telegram Bot API 
 
 - Adds a Telegram Bot app menu with a Settings entry and Test Console.
 - Adds a Telegram Bot section to Odoo Settings for the BotFather token.
+- Creates a Telegram channel in Discuss on installation and automatically subscribes internal users. Channel customizations are preserved during addon upgrades.
 - Provides a transient test form to fetch recent chats from `getUpdates`.
 - Provides a transient test form to send a message with `sendMessage`.
 

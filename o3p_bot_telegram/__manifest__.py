@@ -11,9 +11,10 @@
     "website": "https://github.com/odoo-third-party/o3p-bot-telegram",
     "license": "LGPL-3",
     "sequence": 21,
-    "depends": ["base_setup"],
+    "depends": ["base_setup", "mail"],
     "external_dependencies": {"python": ["requests"]},
     "data": [
+        "data/discuss_channel_data.xml",
         "security/ir.access.csv",
         "views/res_config_settings_views.xml",
         "views/telegram_tester_views.xml",
