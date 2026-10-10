@@ -54,7 +54,7 @@ class O3PBotTelegramTester(models.TransientModel):
         token = (
             self.env["ir.config_parameter"]
             .sudo()
-            .get_param("o3p_bot_telegram.bot_token")
+            .get_str("o3p_bot_telegram.bot_token")
         )
         if not token:
             raise UserError("Configure the Telegram bot token in Settings first.")
